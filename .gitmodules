@@ -2,7 +2,3 @@
 	path = Submodule1
 	url = https://github.com/ManjunathGundappa/Submodule1.git
         branch = main
-[submodule "Submodule2"]
-	path = Submodule2
-	url = https://github.com/ManjunathGundappa/Submodule2.git
-        branch = main
